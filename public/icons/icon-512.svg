@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#09203f"/>
+  <path d="M100 324c39-59 74-89 112-89 33 0 56 18 74 49 24-49 58-79 103-79 24 0 45 9 63 27v111H100z" fill="#136f63"/>
+  <path d="M72 355h368c-18 46-55 69-108 69H180c-52 0-89-23-108-69z" fill="#ff7f50"/>
+  <text x="256" y="193" fill="#f3efe0" font-size="88" font-family="Segoe UI, sans-serif" text-anchor="middle">ABPS</text>
+</svg>
